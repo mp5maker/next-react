@@ -11,6 +11,7 @@
     npm install --save @zeit/next-sass
     npm install --save @zeit/next-css
     npm install --save node-sass
+    npm install --save isomorphic-unfetch
 
 ### Script ###
 
